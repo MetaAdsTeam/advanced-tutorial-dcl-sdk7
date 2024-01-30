@@ -76,7 +76,7 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 * Delete the files selected in the screenshot (2) 
 
 ![Image](./media/5.png)
+
+> * Copy the files from the downloaded archive from *MetaAds*
+> * Paste in *Source(src)*
 ##
-
-
-
