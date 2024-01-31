@@ -80,3 +80,56 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 > * Copy the files from the downloaded archive from *MetaAds*
 > * Paste in *Source(src)*
 ##
+> Go to the *MetaAds* site and open your *Ad Space* with a click
+
+* Copy *Ad Space PIN*
+
+![Image](./media/10.png)
+
+> Go back to the *VSC* 
+
+* Open *index.ts* file (1)
+* Paste the *PIN* into the selected line in the screenshot (2)
+
+![Image](./media/11.png)
+##
+
+* Open *scene.json* file (1)
+* Replace the selected part of the code with (2):
+
+```
+"requiredPermissions": [
+    "ALLOW_TO_TRIGGER_AVATAR_EMOTE",
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE",
+    "ALLOW_MEDIA_HOSTNAMES"
+    ],
+    "allowedMediaHostnames": [
+    "metaads.team",
+    "meta-dev.eastrelay.com"
+    ],
+```
+
+![Image](./media/12.png)
+> Now you can run your scene.
+##
+
+* Click on *DCL* icon (1)
+* Click on *Run Scene* (2)
+
+![Image](./media/13.png)
+
+> Wait for downloading. *VSC* will open a new tab with your scene.
+
+![Image](./media/14.png)
+##
+
+> You can also open the scene in a browser.
+
+* Click on 3 dots in *Editor* (1)
+* Click on *Open in Browser With Web3* (2)
+
+![Image](./media/15.png)
+![Image](./media/16.png)
+
+
+
