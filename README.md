@@ -26,12 +26,16 @@ This document is the instruction on how to add MetaAds SDK7 files, Typescript (J
 * Enter *Description* (3)
 * Enter *jump URL* (is optional) (4)
 * Upload *Preview Image* (This is the image that will be displayed on the site with the created Ad Space) (5)
-* You can choose to enable *moderation* or not (is optional) (6)
-* Click on *Next* (7)
+* Upload *Default Image* (This is the image that will be displayed on the screen by default. If it is not there, the Meta Ads icon will be displayed.) (6)
+* You can choose to enable *moderation* or not (is optional) (7)
+* Click on *Next* (8)
 
 ![Image](./media/8.png)
 
-> In the last step, enter *Cost per minute* on your *Ad Space* and click *Add*.
+* Enter *Cost per minute* on your *Ad Space* (1)
+* Click on *Add* (2)
+
+![Image](./media/17.png)
 
 ![Image](./media/9.png)
 
@@ -62,7 +66,7 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 
 ![Image](./media/3.png)
 ##
-
+> If you already have a project with SDK7 files, then you need to open it by clicking the Open button and select the folder with these files.
 * Click on *DCL* icon (1)
 * Click on *Create project* (2)
 * Click on *Standart project* (3)
@@ -102,11 +106,11 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
     "ALLOW_TO_TRIGGER_AVATAR_EMOTE",
     "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE",
     "ALLOW_MEDIA_HOSTNAMES"
-    ],
-    "allowedMediaHostnames": [
+],
+"allowedMediaHostnames": [
     "metaads.team",
     "meta-dev.eastrelay.com"
-    ],
+],
 ```
 
 ![Image](./media/12.png)
