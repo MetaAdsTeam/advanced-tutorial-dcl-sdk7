@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document is the instruction on how to add MetaAds SDK7 files, Typescript (Javascript + Types) to your Decentraland Scene. As a result, the back-end image/video will be displayed.
+This document is the instruction on how to add ***MetaAds** SDK7* files, Typescript (*Javascript + Types*) to your *Decentraland* Scene. As a result, the back-end image/video will be displayed.
 
 ## 1. Creating an *Ad Space* on the [**MetaAds**](https://metaads.team/main/) site
 
@@ -124,7 +124,7 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 
 > Wait for downloading. *VSC* will open a new tab with your scene.
 
-![Image](./media/14.png)
+![Image](./media/14.jpg)
 ##
 
 > You can also open the scene in a browser.
@@ -132,8 +132,8 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 * Click on 3 dots in *Editor* (1)
 * Click on *Open in Browser With Web3* (2)
 
-![Image](./media/15.png)
-![Image](./media/16.png)
+![Image](./media/15.jpg)
+![Image](./media/16.jpg)
 
 
 
