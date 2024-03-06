@@ -124,7 +124,7 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 
 > Wait for downloading. *VSC* will open a new tab with your scene.
 
-
+![Image](./media/14.png)
 ##
 
 > You can also open the scene in a browser.
@@ -132,7 +132,8 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 * Click on 3 dots in *Editor* (1)
 * Click on *Open in Browser With Web3* (2)
 
-
+![Image](./media/15.png)
+![Image](./media/16.png)
 
 
 
