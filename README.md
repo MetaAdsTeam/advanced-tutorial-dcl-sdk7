@@ -22,11 +22,11 @@ This document is the instruction on how to add MetaAds SDK7 files, Typescript (J
 ![Image](./media/7.png)
 
 * Enter *Name* (1)
-* Enter *External target link* (is optional) (2)
+* Enter *External target link* (Default link when clicking on the screen and it is optional) (2)
 * Enter *Description* (3)
-* Enter *jump URL* (is optional) (4)
+* Enter *jump URL* (Link to a scene in the metaverse and it is optional) (4)
 * Upload *Preview Image* (This is the image that will be displayed on the site with the created Ad Space) (5)
-* Upload *Default Image* (This is the image that will be displayed on the screen by default. If it is not there, the Meta Ads icon will be displayed.) (6)
+* Upload *Default Image* (This is the image that will be displayed on the screen by default, if it is not there, the *Meta Ads* icon will be displayed.) (6)
 * You can choose to enable *moderation* or not (is optional) (7)
 * Click on *Next* (8)
 
@@ -124,7 +124,7 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 
 > Wait for downloading. *VSC* will open a new tab with your scene.
 
-![Image](./media/14.png)
+
 ##
 
 > You can also open the scene in a browser.
@@ -132,8 +132,7 @@ To run a scene with *SDK7* files, you need to install the [**Visual Studio Code*
 * Click on 3 dots in *Editor* (1)
 * Click on *Open in Browser With Web3* (2)
 
-![Image](./media/15.png)
-![Image](./media/16.png)
+
 
 
 
